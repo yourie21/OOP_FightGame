@@ -1,0 +1,11 @@
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\bin\Debug\netcoreapp2.0\Fight.deps.json
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\bin\Debug\netcoreapp2.0\Fight.runtimeconfig.json
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\bin\Debug\netcoreapp2.0\Fight.runtimeconfig.dev.json
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\bin\Debug\netcoreapp2.0\Fight.dll
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\bin\Debug\netcoreapp2.0\Fight.pdb
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\obj\Debug\netcoreapp2.0\Fight.csprojResolveAssemblyReference.cache
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\obj\Debug\netcoreapp2.0\Fight.csproj.CoreCompileInputs.cache
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\obj\Debug\netcoreapp2.0\Fight.AssemblyInfoInputs.cache
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\obj\Debug\netcoreapp2.0\Fight.AssemblyInfo.cs
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\obj\Debug\netcoreapp2.0\Fight.dll
+C:\Users\youri\OneDrive\Documents\Dojo\c#\Fight\obj\Debug\netcoreapp2.0\Fight.pdb
